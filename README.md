@@ -11,4 +11,4 @@ To run the application:
 6. Enter player name and click on "Connect" button
 
 * The game starts when two clients (players) are connected. 
-* Enjoy!
+* Enjoy
